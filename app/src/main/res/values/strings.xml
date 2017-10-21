@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Get HTML Resource</string>
+    <string name="hint_url">URL web</string>
+    <string-array name="protokol">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>
